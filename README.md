@@ -24,4 +24,4 @@ Devised as a research project by a team of five, Smart Compass focuses on the in
 This application was developed as part of a collaborative research study to evaluate the effectiveness of persuasive design in AR navigation tools. 
 
 ---
-*Created by a research team of 5. Team members: Josteve Adekanbi, Jai Sachdeva,Gautam Sahni, Param Kataria and Yugam Yugam. Supervised by Dr. Oladapo Oyebode*
+*Created as part of a research project in a team of 5. Team members: Josteve Adekanbi, Jai Sachdeva,Gautam Sahni, Param Kataria and Yugam Yugam. Supervised by Dr. Oladapo Oyebode. Development ongoing.*
