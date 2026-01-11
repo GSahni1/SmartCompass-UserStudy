@@ -1,0 +1,8 @@
+D:/SmartCompass-Auth-Working/SmartComp/.utmp/RelWithDebInfo/1py702g3/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/SmartCompass-Auth-Working/SmartComp/.utmp/RelWithDebInfo/1py702g3/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/SmartCompass-Auth-Working/SmartComp/.utmp/RelWithDebInfo/1py702g3/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/SmartCompass-Auth-Working/SmartComp/.utmp/RelWithDebInfo/1py702g3/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/SmartCompass-Auth-Working/SmartComp/.utmp/RelWithDebInfo/1py702g3/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/SmartCompass-Auth-Working/SmartComp/.utmp/RelWithDebInfo/1py702g3/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/SmartCompass-Auth-Working/SmartComp/.utmp/RelWithDebInfo/1py702g3/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/SmartCompass-Auth-Working/SmartComp/.utmp/RelWithDebInfo/1py702g3/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

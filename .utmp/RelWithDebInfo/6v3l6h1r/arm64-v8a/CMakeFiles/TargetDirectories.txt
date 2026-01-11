@@ -1,0 +1,8 @@
+/Users/jaisachdeva/Desktop/SmartComp/.utmp/RelWithDebInfo/6v3l6h1r/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/jaisachdeva/Desktop/SmartComp/.utmp/RelWithDebInfo/6v3l6h1r/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/jaisachdeva/Desktop/SmartComp/.utmp/RelWithDebInfo/6v3l6h1r/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/jaisachdeva/Desktop/SmartComp/.utmp/RelWithDebInfo/6v3l6h1r/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/jaisachdeva/Desktop/SmartComp/.utmp/RelWithDebInfo/6v3l6h1r/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/jaisachdeva/Desktop/SmartComp/.utmp/RelWithDebInfo/6v3l6h1r/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/jaisachdeva/Desktop/SmartComp/.utmp/RelWithDebInfo/6v3l6h1r/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/jaisachdeva/Desktop/SmartComp/.utmp/RelWithDebInfo/6v3l6h1r/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

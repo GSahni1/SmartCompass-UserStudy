@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "475488480277",
+    "firebase_url": "https://smartcompass-59c7a-default-rtdb.firebaseio.com",
+    "project_id": "smartcompass-59c7a",
+    "storage_bucket": "smartcompass-59c7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475488480277:android:704687e34f664e3e62721c",
+        "android_client_info": {
+          "package_name": "com.PersuasiveComputing.SmartComp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC38t2uQhpYDhXJTaElxDztzJ9IKDi8lD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

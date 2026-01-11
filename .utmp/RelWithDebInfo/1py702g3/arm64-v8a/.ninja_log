@@ -1,0 +1,23 @@
+# ninja log v5
+32	3557	7884830707046736	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	88ff5d222cdf3870
+147	493	7884830676573118	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d89795d37d2840b1
+3557	3776	7884830709408814	D:/SmartCompass-Auth-Working/SmartComp/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1py702g3/obj/arm64-v8a/libgame.so	9f9ed33573aafce3
+131	2895	7884830700506735	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4a1a5211dbebf7d0
+494	1300	7884830683874877	D:/SmartCompass-Auth-Working/SmartComp/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1py702g3/obj/arm64-v8a/libswappywrapper.so	c4442103252f0b4d
+56	2904	7884830700532504	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	59dee16e09a7f539
+81	3084	7884830702458396	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	469c9003659243d8
+67	2934	7884830700936309	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f90cf8ba22ffa2dd
+42	3032	7884830701924599	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6dcb24bdb0d6766c
+114	3018	7884830701790628	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c911fccc752a3f02
+98	3392	7884830705516779	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	bfbd19aca455be3b
+153	974	7884863156773905	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d89795d37d2840b1
+975	1466	7884863161748062	D:/SmartCompass-Auth-Working/SmartComp/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1py702g3/obj/arm64-v8a/libswappywrapper.so	c4442103252f0b4d
+133	3298	7884863180064096	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4a1a5211dbebf7d0
+74	3361	7884863180514464	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	59dee16e09a7f539
+60	3405	7884863181055616	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f90cf8ba22ffa2dd
+104	3409	7884863181065626	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c911fccc752a3f02
+118	3612	7884863183218320	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	469c9003659243d8
+46	3654	7884863183576490	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6dcb24bdb0d6766c
+88	3884	7884863185932364	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	bfbd19aca455be3b
+31	4061	7884863187733504	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	88ff5d222cdf3870
+4061	4289	7884863190006523	D:/SmartCompass-Auth-Working/SmartComp/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1py702g3/obj/arm64-v8a/libgame.so	9f9ed33573aafce3
