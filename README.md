@@ -6,7 +6,7 @@
 Smart Compass is an augmented reality (AR) indoor navigation application designed to provide accurate real-time positioning and an engaging user experience. Built using **Unity** and the **Multiset Unity SDK**, this project utilizes camera-based indoor localization on a predefined map to offer seamless guidance in complex indoor environments.
 
 Devised as a research project by a team of five, Smart Compass focuses on the intersection of precise localization technology and persuasive computing, featuring gamified elements like treasure hunts to enhance user interaction.
-![Screenshot from the App navigating to a Washroom](./images/image1)
+![Screenshot from the App navigating to a Washroom](./images/image1.png)
 
 ## Key Features
 - **Real-Time Indoor Localization:** Achieves accurate positioning using the Multiset Unity SDK's camera-based localization system.
