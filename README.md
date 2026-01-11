@@ -9,6 +9,7 @@ Devised as a research project by a team of five, Smart Compass focuses on the in
 ![Screenshot from the App navigating to a Washroom](./images/image1.png)
 
 ## Key Features
+- **Secure Authentication and Data Storage:** The app's authentication system and data storage were made using Firebase. 
 - **Real-Time Indoor Localization:** Achieves accurate positioning using the Multiset Unity SDK's camera-based localization system.
 - **AR Wayfinding:** Visualizes paths directly in the physical environment.
 - **Persuasive Navigation:** Incorporates gamified features, such as AR treasure hunt and Step count leaderboard, to motivate and engage users during traversal.
@@ -17,6 +18,7 @@ Devised as a research project by a team of five, Smart Compass focuses on the in
 ## Technical Stack
 - **Engine:** Unity
 - **SDK:** Multiset Unity SDK
+- **Authentication and Database:** Firebase
 - **Language for Scripts:** C#
 - **Platform:** AR-compatible Mobile Devices, tested for Android.
 
